@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Code brain index (regenerate with index_repository)
+.codebase-memory/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / env
+*.log
+.env
+.env.*
